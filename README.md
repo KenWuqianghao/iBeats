@@ -6,6 +6,9 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
+| 19 Sep 2022 at 20:07 | 72 |
+| 19 Sep 2022 at 20:06 | 72 |
+| 19 Sep 2022 at 20:00 | 72 |
 | 19 Sep 2022 at 19:59 | 73 |
 | 19 Sep 2022 at 19:55 | 78 |
 | 19 Sep 2022 at 19:47 | 81 |
@@ -13,9 +16,6 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 | 19 Sep 2022 at 19:40 | 82 |
 | 19 Sep 2022 at 19:33 | 85 |
 | 19 Sep 2022 at 19:29 | 78 |
-| 19 Sep 2022 at 19:21 | 83 |
-| 19 Sep 2022 at 19:16 | 71 |
-| 19 Sep 2022 at 19:11 | 82 |
 
 <!--END_SECTION:my_heart_rate-->
 
