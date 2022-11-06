@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 5 Nov 2022 at 20:56 | 67 |
-| 5 Nov 2022 at 20:49 | 60 |
-| 5 Nov 2022 at 20:48 | 81 |
-| 5 Nov 2022 at 20:43 | 87 |
-| 5 Nov 2022 at 20:36 | 71 |
-| 5 Nov 2022 at 20:31 | 71 |
-| 5 Nov 2022 at 20:30 | 74 |
-| 5 Nov 2022 at 20:24 | 78 |
-| 5 Nov 2022 at 20:20 | 80 |
-| 5 Nov 2022 at 20:15 | 82 |
+| 6 Nov 2022 at 18:03 | 74 |
+| 6 Nov 2022 at 18:02 | 80 |
+| 6 Nov 2022 at 17:55 | 83 |
+| 6 Nov 2022 at 17:49 | 91 |
+| 6 Nov 2022 at 17:45 | 98 |
+| 6 Nov 2022 at 17:38 | 86 |
+| 6 Nov 2022 at 17:35 | 92 |
+| 6 Nov 2022 at 17:23 | 66 |
+| 6 Nov 2022 at 17:20 | 69 |
+| 6 Nov 2022 at 16:45 | 106 |
 
 <!--END_SECTION:my_heart_rate-->
 
