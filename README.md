@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 4 Sep 2023 at 17:05 | 70 |
-| 4 Sep 2023 at 17:00 | 74 |
-| 4 Sep 2023 at 16:57 | 73 |
-| 4 Sep 2023 at 16:51 | 76 |
-| 4 Sep 2023 at 16:43 | 75 |
-| 4 Sep 2023 at 16:41 | 73 |
-| 4 Sep 2023 at 16:34 | 75 |
-| 4 Sep 2023 at 16:29 | 72 |
-| 4 Sep 2023 at 16:23 | 70 |
-| 4 Sep 2023 at 16:18 | 68 |
+| 4 Sep 2023 at 20:58 | 106 |
+| 4 Sep 2023 at 20:55 | 106 |
+| 4 Sep 2023 at 20:36 | 89 |
+| 4 Sep 2023 at 20:31 | 87 |
+| 4 Sep 2023 at 20:25 | 97 |
+| 4 Sep 2023 at 20:19 | 89 |
+| 4 Sep 2023 at 20:16 | 88 |
+| 4 Sep 2023 at 20:14 | 90 |
+| 4 Sep 2023 at 20:11 | 91 |
+| 4 Sep 2023 at 20:05 | 93 |
 
 <!--END_SECTION:my_heart_rate-->
 
