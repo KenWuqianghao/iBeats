@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 1 Nov 2024 at 10:17 | 71 |
-| 1 Nov 2024 at 10:14 | 75 |
-| 1 Nov 2024 at 10:12 | 78 |
-| 1 Nov 2024 at 10:06 | 109 |
-| 1 Nov 2024 at 10:03 | 113 |
-| 1 Nov 2024 at 10:00 | 109 |
-| 1 Nov 2024 at 09:57 | 75 |
-| 1 Nov 2024 at 09:53 | 98 |
-| 1 Nov 2024 at 09:50 | 128 |
-| 1 Nov 2024 at 09:48 | 118 |
+| 3 Nov 2024 at 21:52 | 79 |
+| 3 Nov 2024 at 21:44 | 71 |
+| 3 Nov 2024 at 21:32 | 113 |
+| 3 Nov 2024 at 21:28 | 79 |
+| 3 Nov 2024 at 21:24 | 88 |
+| 3 Nov 2024 at 21:24 | 75 |
+| 3 Nov 2024 at 21:22 | 75 |
+| 3 Nov 2024 at 21:13 | 71 |
+| 3 Nov 2024 at 21:12 | 73 |
+| 3 Nov 2024 at 21:07 | 70 |
 
 <!--END_SECTION:my_heart_rate-->
 
