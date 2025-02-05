@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 4 Feb 2025 at 17:28 | 59 |
-| 4 Feb 2025 at 17:28 | 56 |
-| 4 Feb 2025 at 17:27 | 65 |
-| 4 Feb 2025 at 17:19 | 70 |
-| 4 Feb 2025 at 17:19 | 75 |
-| 4 Feb 2025 at 17:18 | 66 |
-| 4 Feb 2025 at 17:12 | 66 |
-| 4 Feb 2025 at 17:11 | 63 |
-| 4 Feb 2025 at 17:11 | 71 |
-| 4 Feb 2025 at 17:01 | 83 |
+| 5 Feb 2025 at 10:23 | 60 |
+| 5 Feb 2025 at 10:18 | 56 |
+| 5 Feb 2025 at 10:17 | 60 |
+| 5 Feb 2025 at 10:13 | 58 |
+| 5 Feb 2025 at 10:12 | 56 |
+| 5 Feb 2025 at 10:08 | 54 |
+| 5 Feb 2025 at 10:07 | 58 |
+| 5 Feb 2025 at 10:03 | 56 |
+| 5 Feb 2025 at 10:02 | 55 |
+| 5 Feb 2025 at 09:58 | 54 |
 
 <!--END_SECTION:my_heart_rate-->
 
